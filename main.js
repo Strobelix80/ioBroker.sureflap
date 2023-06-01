@@ -2725,7 +2725,8 @@ class Sureflap extends utils.Adapter {
 				'Content-Type' : 'application/json;charset=utf-8',
 				'Origin' :  'https://surepetcare.io',
 				'Cache-Control' : 'no-cache',
-				'Pragma' : 'no-cache'
+				'Pragma' : 'no-cache',
+				'User-Agent' : 'Mozilla/5.0'
 			}
 		};
 
